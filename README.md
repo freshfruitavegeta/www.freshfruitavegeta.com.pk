@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**freshfruitavegeta/freshfruitavegeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**https://github.com/freshfruitavegeta/www.freshfruitavegeta.com.pk.git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
